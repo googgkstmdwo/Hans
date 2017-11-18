@@ -8,4 +8,4 @@ sum.o:	sum.h	sun.cpp
 
 clean:
 	rm -f Hans
-	rm -f*.0
+	rm -f*.0 
